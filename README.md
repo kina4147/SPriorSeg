@@ -2,7 +2,7 @@
 
 <b>Fast Road-Object Segmentation using Deep Semantic Prior for Sparse 3D Point Cloud (SMC 2020)</b>
 
-This repository contains the official python implementation for our full paper at IROS 2020 "[3D Multi-Object Tracking: A Baseline and New Evaluation Metrics](http://www.xinshuoweng.com/papers/AB3DMOT/camera_ready.pdf)" and short paper "[AB3DMOT: A Baseline for 3D Multi-Object Tracking and New Evaluation Metrics](http://www.xinshuoweng.com/papers/AB3DMOT_eccvw/camera_ready.pdf)" at ECCVW 2020. Our project website and video demos are [here](http://www.xinshuoweng.com/projects/AB3DMOT/). If you find our paper or code useful, please cite our papers:
+This repository contains brief description and dataset link for our full paper at SMC 2020 "Fast Road-Object Segmentation using Deep Semantic Prior for Sparse 3D Point Cloud". We have the plan to open the code, but The code is not opened yet. If you have interest in our paper, please contact to author(kina4147@etri.re.kr) and cite our papers:
 
 ```
 @article{Na2020SMC_SemanticPriorSeg, 
