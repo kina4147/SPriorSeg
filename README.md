@@ -32,3 +32,5 @@ described in SqueezeSeg. Our dataset is well-balanced for all the classes: a ped
 
 ## Acknowledgement
 This work was supported by the ICT R&D program of MSIP/IITP. [2017-0-00306, Development of Multimodal Sensor-based Intelligent Sys- tems for Outdoor Surveillance Robots]
+
+https://drive.google.com/u/1/uc?export=download&confirm=a9LV&id=1bKoXBmF0epHpmQ3E-G_IFABrRid_l3P8
