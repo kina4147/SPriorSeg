@@ -15,12 +15,6 @@ year = {2020}
 
 <img align="center" src="https://github.com/kina4147/SemanticPriorSeg/blob/master/SemanticPriorSeg.gif">
 
-## Overview
-- [News](#news)
-- [Introduction](#introduction)
-- [Datasets](#datasets)
-- [Acknowledgement](#acknowledgement)
-
 ## Introduction
 Detection and classification of road-objects like cars, pedestrians, and cyclists is the first step in autonomous driving. Especially, point-wise object segmentation for a 3D point cloud is essential to estimate road-objects’ precise ap- pearance. This paper proposes fast and accurate point-level object segmentation using deep semantic cue for point cloud by integrating the strengths of deep convolutional auto-encoder and region growing algorithm. CNN-based semantic segmenta- tion labels a spherical projection image of point cloud pixel- by-pixel to types of road-objects. The connected component method achieves pixel-wise instance segmentation by taking into account geometric and semantic features between neighboring pixels. We extract point-wise labeled datasets for types and objects from 3D bounding boxes and point clouds in the KITTI object dataset. The dataset is employed to train a neural network for semantic segmentation and demonstrate both semantic and instance segmentation’s performance.
 
