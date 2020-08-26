@@ -13,7 +13,7 @@ year = {2020}
 }
 ```
 
-<img align="center" src="https://github.com/xinshuoweng/AB3DMOT/blob/master/main.gif">
+<img align="center" src="https://github.com/kina4147/SemanticPriorSeg/blob/master/SemanticPriorSeg.gif">
 
 ## Overview
 - [News](#news)
