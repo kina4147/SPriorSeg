@@ -8,7 +8,7 @@ This repository contains brief description and dataset link for our full paper a
 @article{Na2020SMC_SemanticPriorSeg, 
 author = {Ki-In Na, Byungjae Park and Jong-Hwan Kim}, 
 journal = {SMC}, 
-title = {{Fast Road-Object Segmentation using Deep Semantic Prior for Sparse 3D Point Cloud}}, 
+title = {Fast Road-Object Segmentation using Deep Semantic Prior for Sparse 3D Point Cloud}, 
 year = {2020} 
 }
 ```
